@@ -98,7 +98,7 @@ def main():
     print(z[-2])
     print(z[-3])
     print(z[-4])
-    print(z["dupa"])
+    print(z["sadasdasd"])
 
 if __name__ == '__main__':
     main()
